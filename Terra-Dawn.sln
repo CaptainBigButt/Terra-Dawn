@@ -1,0 +1,21 @@
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+
+Project("{203A8E95-AD08-3C8B-D2BB-7E87F72791F1}") = "Terra-Dawn", "Assembly-UnityScript.unityproj", "{3971BC23-42AF-7E4E-3982-2D75B840F3E2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3971BC23-42AF-7E4E-3982-2D75B840F3E2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3971BC23-42AF-7E4E-3982-2D75B840F3E2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3971BC23-42AF-7E4E-3982-2D75B840F3E2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3971BC23-42AF-7E4E-3982-2D75B840F3E2}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	
+EndGlobal
